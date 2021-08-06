@@ -1,3 +1,3 @@
 # Procesoare_de_semnal
-TIMER, PIE
+TIMER, PIE ==>
 Proiect Code Composer Studio
